@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IH/5bGKZRo8=",
+  "success": true,
+  "projectFilePath": "D:\\PersonalProjects\\clean-architecture\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khurs\\.nuget\\packages\\sonaranalyzer.csharp\\10.12.0.118525\\sonaranalyzer.csharp.10.12.0.118525.nupkg.sha512"
+  ],
+  "logs": []
+}
